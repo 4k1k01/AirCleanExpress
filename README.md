@@ -1,6 +1,6 @@
-# AirCleanExpress.cz
+# AirCleanExpress
 
-[AirCleanExpress.cz](https://aircleanexpress.cz/) specializes in cleaning and maintaining HVAC systems in apartment buildings across the Czech Republic.
+[AirCleanExpress.cz](https://airclean.netlify.app/) specializes in cleaning and maintaining HVAC systems in apartment buildings across the Czech Republic.
 
 ## Features
 
